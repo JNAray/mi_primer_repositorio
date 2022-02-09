@@ -21,6 +21,7 @@ public class ejer4 {
 //        n1.rellenar();
 //        n1.perimetro();
 //        n1.superficie();
+            System.out.println("nico pasa elresto del codigo");
    }
     
 }
