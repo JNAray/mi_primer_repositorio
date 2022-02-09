@@ -17,10 +17,10 @@ public class ejer4 {
     public static void main(String[] args) {
         
         // TODO code application logic here
-        Rectangulo n1 = new Rectangulo ();
-        n1.rellenar();
-        n1.perimetro();
-        n1.superficie();
-    }
+       // Rectangulo n1 = new Rectangulo ();
+//        n1.rellenar();
+//        n1.perimetro();
+//        n1.superficie();
+   }
     
 }
